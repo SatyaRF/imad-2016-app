@@ -1,5 +1,6 @@
+@import 'https://fonts.googleapis.com/css?family=Baloo+Bhaina|Pacifico';
 body {
-    font-family: sans-serif;
+    /*font-family: sans-serif;*/
     background-color: lightgrey;
     margin-top: 75px;
 }
@@ -9,11 +10,13 @@ body {
 }
 
 .text-big {
+	font-family: 'Baloo Bhaina', cursive;
     font-size: 300%;
 }
 
 .text-small{
-font-size: 200%;
+	font-family: 'Pacifico', cursive;
+	font-size: 200%;
 }
 
 .bold {
