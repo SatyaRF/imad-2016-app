@@ -29,9 +29,10 @@ body {
 }
 
 .container{
+	font-family: 'Pacifico', cursive;
 	max-width: 800px;
 	margin: 0 auto;
-	color: #584f4f;
+	color: #672c2c;
 	padding-top: 40px;
 	padding-left: 10px;
 	padding-right: 10px;
